@@ -1,6 +1,8 @@
 # Image Segmentation TensorFlow
 
-image segmentation is to train a neural network to output a pixel-wise mask of the image.
+Image segmentation is to train a neural network to output a pixel-wise mask of the image.
+
+Build U-Net Xception-style model with TensorFlow.
 
 ## Project Organization
 
